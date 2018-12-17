@@ -1,0 +1,13 @@
+<!--index.wxml-->
+<view>
+<view class="location" style="flex-direction:row;">
+
+
+  <view >北京市 大兴区</view>
+  <view>金苑路</view>
+  <view class="temp">当前温度：-10℃</view>
+  <view>风力：2～3级</view>
+  <image src="/i/111.jpeg"></image>
+</view>
+</view>
+

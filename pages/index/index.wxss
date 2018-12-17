@@ -1,0 +1,9 @@
+/**index.wxss**/
+
+.location {
+  margin-top: 10px;
+  margin-left: 30px;
+}
+.location .temp{
+  font-size: 30px;
+}
